@@ -3,5 +3,5 @@ In this set of mini-projects we will use different technologies, like Python, R,
 
 ## Table of contents
 * [Binomial options pricing model](ROV-1/ROV_example_1.ipynb)
-* Least-squares Monte Carlo method
-* Least-squares Monte Carlo method, several sctochastic factors
+* [Least-squares Monte Carlo method](ROV-2/ROV_example_2.ipynb)
+* [Least-squares Monte Carlo method, several sctochastic factors]
